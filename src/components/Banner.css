@@ -1,0 +1,10 @@
+.banner{
+    height: 300px;
+    width:900px;
+   background-color: rgb(93, 89, 89);
+   background-image: url(../assets/Banner1.png);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   border-radius: 15px;
+}

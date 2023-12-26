@@ -1,0 +1,43 @@
+
+
+.footer {
+    background-color: #3498db;
+    color: white;
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+.li {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  text-align: center;
+  font-size: 23px;
+
+
+}
+.div1 ul{
+  list-style: none;
+
+}
+.div2 ul{
+  list-style: none;
+}
+@media only screen and (max-width: 628px){
+  .li {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+  
+  
+  }
+  .footer {
+    background-color: #3498db;
+    color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+}
+
+  
